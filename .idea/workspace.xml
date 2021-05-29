@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e64abb-7073-442d-9023-49baaa17fd54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/redis/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/redis/RedisUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="65e64abb-7073-442d-9023-49baaa17fd54" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +100,7 @@
       <workItem from="1622249085752" duration="15000" />
       <workItem from="1622249167704" duration="351000" />
       <workItem from="1622252217483" duration="8000" />
+      <workItem from="1622277453121" duration="17000" />
     </task>
     <servers />
   </component>
