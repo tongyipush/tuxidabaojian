@@ -37,7 +37,7 @@ public class RedisUtil {
         jeidisCluster.set("k250","v250");
         System.out.println(jeidisCluster.get("k250"));
     }
-    //todo 更改此处，哇哈哈哈 星期六，版本更新
+    //todo 更改此处，哇哈哈哈 星期六，版本更新(岳不群更改)
     private static JedisPool jedisPool = null;
     private static JedisSentinelPool jedisSentinelPool = null;
     public static Jedis getJedis(){

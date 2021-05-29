@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e64abb-7073-442d-9023-49baaa17fd54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/redis/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/redis/RedisUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="65e64abb-7073-442d-9023-49baaa17fd54" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/DevRepository/GITRepository/redis" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -101,6 +99,7 @@
       <workItem from="1622195393805" duration="624000" />
       <workItem from="1622249085752" duration="15000" />
       <workItem from="1622249167704" duration="351000" />
+      <workItem from="1622252217483" duration="8000" />
     </task>
     <servers />
   </component>
